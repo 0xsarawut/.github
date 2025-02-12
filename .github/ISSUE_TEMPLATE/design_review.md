@@ -2,7 +2,7 @@
 name: Schedule Design Review
 about: Get buy in on a design
 title: ''
-labels: ''
+labels: ["M-needs-triage"]
 assignees: 'op-aaron'
 
 ---

@@ -1,7 +1,7 @@
 name: Project Template
 description: High level issue for tracking a project.
 title: "Project: "
-labels: ["Project"]
+labels: ["Project","M-needs-triage"]
 body:
   - type: textarea
     id: description
